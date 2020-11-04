@@ -1,0 +1,26 @@
+{
+  "name": "cheemsburbger-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starkfire/cheemsburbger-api.git"
+  },
+  "author": "starkfire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starkfire/cheemsburbger-api/issues"
+  },
+  "homepage": "https://github.com/starkfire/cheemsburbger-api#readme"
+}
